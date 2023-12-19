@@ -1,5 +1,6 @@
-- Nama Team : Zaky Zahrani Fauzi
-- Nama Project : assesment sertifikasi
+Nama Team : Zaky Zahrani Fauzi
+
+Nama Project : assesment sertifikasi
 List Fitur :
 - User
     - Login dan Register, masuk dan daftar website (Create)
