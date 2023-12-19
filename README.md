@@ -1,6 +1,5 @@
-Nama Kelompok : AnakSoleh
-Nama Team : Muhammad Hanif Alkhairi, Zaky Zahrani Fauzi
-Nama Project : BoatBooker
+Nama Team : Zaky Zahrani Fauzi
+Nama Project : assesment sertifikasi
 List Fitur :
 - User
     - Login dan Register, masuk dan daftar website (Create)
