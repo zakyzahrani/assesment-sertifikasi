@@ -1,24 +1,21 @@
 Nama Team : Zaky Zahrani Fauzi
 
 Nama Project : assesment sertifikasi
+
 List Fitur :
 - User
     - Login dan Register, masuk dan daftar website (Create)
     - Home, Menampilkan halaman utama website (Read)
-    - Boat, menampilkan seluruh produk yang disewakan (Read) 
-    - Detail Boat, menampilkan rincian produk (Create, Read)
-    - Riwayat Penyewaan, menampilkan riwayat penyewaan. (Read, Delete)
-    - Konfirmasi Transaksi, melakukan konfirmasi terhadap transaksi. (Update)
+    - Daftar, menampilkan form pendaftaran (Create)
+    - Riwayat Pendaftaran, menampilkan riwayat pendaftaran. (Read, Delete)
+    - Print Pendaftaran, melakukan print terhadap pendaftaran. (Read)
     - Profil, menampilkan profil user (Read)
     - Edit Profil, melakukan perubahan profil user (Read, Update)
-    - Search, melakukan pencarian produk (Read)
 - Admin
     - Login dan Register, masuk dan daftar website (Create)
-    - Home, Menampilkan halaman utama website (Read)
-    - Boat, menampilkan seluruh produk yang disewakan (Read)
-    
-    - Dashboard
-    - Boat
-    - User
-    - Order
-    - Return Boat
+    - Dashboard, Menampilkan halaman utama admin (Read)
+    - List User, Menampilkan list user yang terdaftar (Read)
+    - Create User, Membuat user user baru (Create)
+    - Delete User, Menghapus user yang terdaftar (Delete)
+    - List Pendaftar, Menampilkan list pendaftar (Read)
+    - Approve Pendaftar, Menampilkan data dari Pendaftaran dan merubah status pendaftaran (Read, Update)
